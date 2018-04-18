@@ -1,0 +1,6 @@
+[submodule "PanControl-Google-Apps-Script"]
+	path = PanControl-Google-Apps-Script
+	url = https://github.com/Punplace/PanControl-Google-Apps-Script.git
+[submodule "PanControl-NodeMCU"]
+	path = PanControl-NodeMCU
+	url = https://github.com/Punplace/PanControl-NodeMCU.git
